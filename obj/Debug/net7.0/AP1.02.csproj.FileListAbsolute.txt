@@ -1,0 +1,14 @@
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AP1\AP1.02\bin\Debug\net7.0\AP1.02.exe
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AP1\AP1.02\bin\Debug\net7.0\AP1.02.deps.json
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AP1\AP1.02\bin\Debug\net7.0\AP1.02.runtimeconfig.json
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AP1\AP1.02\bin\Debug\net7.0\AP1.02.dll
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AP1\AP1.02\bin\Debug\net7.0\AP1.02.pdb
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AP1\AP1.02\obj\Debug\net7.0\AP1.02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AP1\AP1.02\obj\Debug\net7.0\AP1.02.AssemblyInfoInputs.cache
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AP1\AP1.02\obj\Debug\net7.0\AP1.02.AssemblyInfo.cs
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AP1\AP1.02\obj\Debug\net7.0\AP1.02.csproj.CoreCompileInputs.cache
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AP1\AP1.02\obj\Debug\net7.0\AP1.02.dll
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AP1\AP1.02\obj\Debug\net7.0\refint\AP1.02.dll
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AP1\AP1.02\obj\Debug\net7.0\AP1.02.pdb
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AP1\AP1.02\obj\Debug\net7.0\AP1.02.genruntimeconfig.cache
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AP1\AP1.02\obj\Debug\net7.0\ref\AP1.02.dll
